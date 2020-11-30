@@ -14,7 +14,18 @@
 - ⚡ Fun fact **I think You've read my profile from top to bottom**  
 
 <p align="left"> <a href="https://twitter.com/mranonymousofcl" target="blank"><img src="https://img.shields.io/twitter/follow/mranonymousofcl?logo=twitter&style=for-the-badge" alt="mranonymousofcl" /></a> </p>  
-  
+
+<p align="left">  
+<h3 align="left">My Project Works:</h3>
+
+<br/>
+
+&emsp;&emsp;&emsp;&emsp;:point_right:&nbsp;&nbsp;[Dark Maps - web-based Map app using Mapbox API](https://dark-maps.herokuapp.com/)&nbsp; :world_map: <br/>
+&emsp;&emsp;&emsp;&emsp;:point_right:&nbsp;&nbsp;[Simple Movie DataBase (SMDB) - Movie review App using React JS and TMDB API](https://simple-movie-db.netlify.app/)&nbsp; :movie_camera: <br/>
+&emsp;&emsp;&emsp;&emsp;:point_right:&nbsp;&nbsp;[The Red Planet - web-based Mars weather app using NASA API](https://mr-anonymous-official.github.io/TheRedPlanet/)&nbsp; :thermometer:
+<br/>
+</p>
+
 <p align="left">  
 <h3 align="left">Connect with me:</h3>  
 <a href="https://twitter.com/mranonymousofcl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mranonymousofcl" height="30" width="40" /></a>  
