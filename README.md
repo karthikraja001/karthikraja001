@@ -24,6 +24,8 @@
 &emsp;&emsp;&emsp;&emsp;:point_right:&nbsp;&nbsp;[Simple Movie DataBase (SMDB) - Movie review App using React JS and TMDB API](https://simple-movie-db.netlify.app/)&nbsp; :movie_camera: <br/>
 &emsp;&emsp;&emsp;&emsp;:point_right:&nbsp;&nbsp;[The Red Planet - web-based Mars weather app using NASA API](https://mr-anonymous-official.github.io/TheRedPlanet/)&nbsp; :thermometer:
 <br/>
+&emsp;&emsp;&emsp;&emsp;:point_right:&nbsp;&nbsp;[RandomPassword.js - A Random Password generator made using Simple javascript](https://mr-anonymous-official.github.io/random-password.js/)&nbsp; :closed_lock_with_key:
+<br/>
 </p>
 
 <p align="left">  
