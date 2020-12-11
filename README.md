@@ -41,7 +41,7 @@
 
 # Stats
 ![My Stats](https://github-readme-stats.vercel.app/api?username=mr-anonymous-official&show_icons=true&theme=radical)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mr0anonymous-official&repo=github-readme-stats)](https://github.com/mr-anonymous-official/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-anonymous-official&repo=github-readme-stats)](https://github.com/mr-anonymous-official/github-readme-stats)
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-anonymous-official&layout=compact" alt="mr-anonymous-official" /></p>  
 
