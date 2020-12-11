@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karthik Raja</h1>  
+<h1 align="center">Hi 👋, I'm Karthik Raja&nbsp;<img align="center" src="https://img.icons8.com/color/48/000000/instagram-verification-badge.png"/></h1>  
 <h3 align="center">A rookie developer from India</h3>  
   
 - 🔭 I’m currently working on **Nothing**  
@@ -30,8 +30,8 @@
 
 <p align="left">  
 <h3 align="left">Connect with me:</h3>  
-<a href="https://twitter.com/mranonymousofcl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mranonymousofcl" height="30" width="40" /></a>  
-<a href="https://instagram.com/mr.anonymous_official" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr.anonymous_official" height="30" width="40" /></a>  
+<a href="https://twitter.com/mranonymousofcl" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"/></a>  
+<a href="https://instagram.com/mr.anonymous_official" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/instagram-new.png"/></a>  
 </p>  
   
 <h3 align="left">Languages and Tools:</h3>  
