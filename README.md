@@ -11,7 +11,7 @@
   
 - 👨‍💻 All of my projects are available at [https://github.com/mr-anonymous-official](https://github.com/mr-anonymous-official)  
   
-- ⚡ Fun fact **I think You've read my profile from top to bottom**  
+- ⚡ Fun fact **RmluYWxseSBZb3UgRm91bmQgdGhlIEZhY3QgdGhhdCBZb3UncmUgYSBnZW5pdXM=**  
 
 <p align="left"> <a href="https://twitter.com/mranonymousofcl" target="blank"><img src="https://img.shields.io/twitter/follow/mranonymousofcl?logo=twitter&style=for-the-badge" alt="mranonymousofcl" /></a> </p>  
 
