@@ -19,14 +19,14 @@
 <h3 align="left">My Project Works:</h3>
 
 <br/>
-&emsp;&emsp;&emsp;&emsp;:point_right:&nbsp;&nbsp;[TheFireflix - Web App for downloading Movies For Free](https://mr-anonymous-official.github.io/TheFireflix/)&nbsp; 🎥: <br/>
-&emsp;&emsp;&emsp;&emsp;:point_right:&nbsp;&nbsp;[Dark Maps - web-based Map app using Mapbox API](https://dark-maps.herokuapp.com/)&nbsp; :world_map: <br/>
-&emsp;&emsp;&emsp;&emsp;:point_right:&nbsp;&nbsp;[Simple Movie DataBase (SMDB) - Movie review App using React JS and TMDB API](https://simple-movie-db.netlify.app/)&nbsp; :movie_camera: <br/>
-&emsp;&emsp;&emsp;&emsp;:point_right:&nbsp;&nbsp;[The Red Planet - web-based Mars weather app using NASA API](https://mr-anonymous-official.github.io/TheRedPlanet/)&nbsp; :thermometer:
+&emsp;&emsp;&emsp;:point_right:&nbsp;&nbsp;[TheFireflix - Web App for downloading Movies For Free](https://mr-anonymous-official.github.io/TheFireflix/)&nbsp; 🎥: <br/>
+&emsp;&emsp;&emsp;:point_right:&nbsp;&nbsp;[Dark Maps - web-based Map app using Mapbox API](https://dark-maps.herokuapp.com/)&nbsp; :world_map: <br/>
+&emsp;&emsp;&emsp;:point_right:&nbsp;&nbsp;[Simple Movie DataBase (SMDB) - Movie review App using React JS and TMDB API](https://simple-movie-db.netlify.app/)&nbsp; :movie_camera: <br/>
+&emsp;&emsp;&emsp;:point_right:&nbsp;&nbsp;[The Red Planet - web-based Mars weather app using NASA API](https://mr-anonymous-official.github.io/TheRedPlanet/)&nbsp; :thermometer:
 <br/>
-&emsp;&emsp;&emsp;&emsp;:point_right:&nbsp;&nbsp;[RandomPassword.js - A Random Password generator made using Simple javascript](https://mr-anonymous-official.github.io/random-password.js/)&nbsp; :closed_lock_with_key:
+&emsp;&emsp;&emsp;:point_right:&nbsp;&nbsp;[RandomPassword.js - A Random Password generator made using Simple javascript](https://mr-anonymous-official.github.io/random-password.js/)&nbsp; :closed_lock_with_key:
 <br/>
-&emsp;&emsp;&emsp;&emsp;:point_right:&nbsp;&nbsp;[Blue Sky Weather - A web based Weather app made using React JS](https://blue-sky-weather.netlify.app/)&nbsp; :partly_sunny:
+&emsp;&emsp;&emsp;:point_right:&nbsp;&nbsp;[Blue Sky Weather - A web based Weather app made using React JS](https://blue-sky-weather.netlify.app/)&nbsp; :partly_sunny:
 <br/>
 
 </p>
