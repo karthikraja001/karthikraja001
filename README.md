@@ -1,19 +1,39 @@
-<h1 align="center">Hi 👋, I'm Karthik Raja&nbsp;<img align="center" src="https://img.icons8.com/color/48/000000/instagram-verification-badge.png"/></h1>  
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Karthik Raja&nbsp;<img align="center" src="https://img.icons8.com/color/48/000000/instagram-verification-badge.png"/></h1>  
 <h3 align="center">A rookie developer from India</h3>  
-  
-- 🔭 I’m currently working on **Nothing**  
-  
-- 🌱 I’m currently learning **Dart, JavaScript**  
-  
-- 👯 I’m looking to collaborate on **Some cool projects**  
-  
-- 🤝 I’m looking for help with **Someone**  
-  
-- 👨‍💻 All of my projects are available at [https://github.com/mr-anonymous-official](https://github.com/mr-anonymous-official)  
-  
-- ⚡ Fun fact **RmluYWxseSBZb3UgRm91bmQgdGhlIEZhY3QgdGhhdCBZb3UncmUgYSBnZW5pdXM=**  
 
-<p align="left"> <a href="https://twitter.com/mranonymousofcl" target="blank"><img src="https://img.shields.io/twitter/follow/mranonymousofcl?logo=twitter&style=for-the-badge" alt="mranonymousofcl" /></a> </p>  
+<a href="https://discord.com/channels/mr_anonymous_2001#4770">
+  <img align="left" alt="Karthik Raja | Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/mranonymousofcl">
+  <img align="left" alt="Karthik Raja | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://instagram.com/mr.anonymous_official">
+  <img align="left" alt="Karthik Raja | Instagram" width="22px" src="https://img.icons8.com/doodle/50/000000/instagram-new.png"/>
+</a>
+  
+<br />
+
+Hi, I'm Karthik Raja, a passionate self-taught App and Web developer from India. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+<br/>
+<code>Code is Like Humor, When we try to explain it, it's too bad</code>
+
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+**Languages and Tools:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+
+⚡ Fun fact **RmluYWxseSBZb3UgRm91bmQgdGhlIEZhY3QgdGhhdCBZb3UncmUgYSBnZW5pdXM=**  
 
 <p align="left">  
 <h3 align="left">My Project Works:</h3>
@@ -31,28 +51,19 @@
 
 </p>
 
-<p align="left">  
-<h3 align="left">Connect with me:</h3>  
-<a href="https://twitter.com/mranonymousofcl" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"/></a>  
-<a href="https://instagram.com/mr.anonymous_official" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/instagram-new.png"/></a>  
-</p>  
-  
-<h3 align="left">Languages and Tools I Know:</h3>
-
-**For** | **I Use**
---- | ---
-**Programming Language** | <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" /> <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_64x64.png" /> <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img align="left" alt="C" width="40px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c_64x64.png" /> <img align="left" alt="Dart" width="40px" src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" /> 
-**Databases** | <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /><img align="left" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-**Frameworks & Libraries** | <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img align="left" alt="Jquery" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" /> <img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-**Toolkits & Platforms** | <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" /> <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img align="left" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" /> 
-**Cloud Services** | <img align="left" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" /> 
-**Design & Prototype** | <img align="left" alt="Figma" width="26px" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" /> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
-
-
-
 
 # Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=mr-anonymous-official&show_icons=true&theme=radical)
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-anonymous-official&layout=compact" alt="mr-anonymous-official" /></p>  
+<img alt = 'Karthik Raja | Stats' width="80%" align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mr-anonymous-official"/>
+<br/>
+<table>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td><img src='https://github-readme-stats.vercel.app/api?username=mr-anonymous-official&show_icons=true&theme=radical'/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-anonymous-official&layout=compact" alt="mr-anonymous-official" /></td>
+  </tr>
+</table
 
+<p></p>  
