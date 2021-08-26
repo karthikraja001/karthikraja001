@@ -50,7 +50,30 @@ Hi, I'm Karthik Raja, a passionate self-taught App and Web developer from India.
 <br/>
 
 </p>
+<br/>
 
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+</a>
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+<a href="https://www.paypal.me/karthikraja01">
+  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" width="160px" alt="Donate with PayPal" />
+</a>
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+
+<br/>
+
+<br/>
 
 # Stats
 <img alt = 'Karthik Raja | Stats' width="80%" align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mr-anonymous-official"/>
