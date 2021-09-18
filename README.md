@@ -7,7 +7,7 @@
 <a href="https://twitter.com/mranonymousofcl">
   <img align="left" alt="Karthik Raja | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://instagram.com/mr.anonymous_official">
+<a href="https://instagram.com/karthikraja.01">
   <img align="left" alt="Karthik Raja | Instagram" width="22px" src="https://img.icons8.com/doodle/50/000000/instagram-new.png"/>
 </a>
   
