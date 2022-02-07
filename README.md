@@ -18,75 +18,31 @@ Hi, I'm Karthik Raja, a passionate self-taught App and Web developer from India.
 <code>Code is Like Humor, When we try to explain it, it's too bad</code>
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
+<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+   -->
 **Languages and Tools:**  
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-Flutter-0D1117?style=flat-square&logo=flutter&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Nodejs-0D1117?style=flat-square&logo=Node.js&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=Python&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Linux-0D1117.svg?style=flat-square&logo=linux&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Markdown-%230D1117.svg?style=flat-square&logo=markdown&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Google cloud-0D1117?style=flat-square&logo=google-cloud&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Google Firebase-0D1117?style=flat-square&logo=firebase&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub%20Pages-%230D1117.svg?style=flat-square&logo=github&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Go Daddy-0D1117.svg?style=flat-square&logo=godaddy&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Digital%20Ocean-0D1117?style=flat-square&logo=digitalocean&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Heroku-0D1117?style=flat-square&logo=heroku&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vercel%20-%230D1117.svg?style=flat-square&logo=vercel&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Amazon%20AWS-0D1117?style=flat-square&logo=amazon-aws&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=F0DB4F"></a>
+</p>
+
 
 ⚡ Fun fact **RmluYWxseSBZb3UgRm91bmQgdGhlIEZhY3QgdGhhdCBZb3UncmUgYSBnZW5pdXM=**  
-
-<p align="left">  
-<h3 align="left">My Project Works:</h3>
-
-<br/>
-&emsp;&emsp;&emsp;:point_right:&nbsp;&nbsp;[TheFireflix - Web App for downloading Movies For Free](https://mr-anonymous-official.github.io/TheFireflix/)&nbsp; 🎥: <br/>
-&emsp;&emsp;&emsp;:point_right:&nbsp;&nbsp;[Dark Maps - web-based Map app using Mapbox API](https://dark-maps.herokuapp.com/)&nbsp; :world_map: <br/>
-&emsp;&emsp;&emsp;:point_right:&nbsp;&nbsp;[Simple Movie DataBase (SMDB) - Movie review App using React JS and TMDB API](https://simple-movie-db.netlify.app/)&nbsp; :movie_camera: <br/>
-&emsp;&emsp;&emsp;:point_right:&nbsp;&nbsp;[The Red Planet - web-based Mars weather app using NASA API](https://mr-anonymous-official.github.io/TheRedPlanet/)&nbsp; :thermometer:
-<br/>
-&emsp;&emsp;&emsp;:point_right:&nbsp;&nbsp;[RandomPassword.js - A Random Password generator made using Simple javascript](https://mr-anonymous-official.github.io/random-password.js/)&nbsp; :closed_lock_with_key:
-<br/>
-&emsp;&emsp;&emsp;:point_right:&nbsp;&nbsp;[Blue Sky Weather - A web based Weather app made using React JS](https://blue-sky-weather.netlify.app/)&nbsp; :partly_sunny:
-<br/>
-
-</p>
-<br/>
-
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
-</a>
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-<a href="https://www.paypal.me/karthikraja01">
-  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" width="160px" alt="Donate with PayPal" />
-</a>
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-
-<br/>
-
-<br/>
-
-# Stats
-<img alt = 'Karthik Raja | Stats' width="80%" align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mr-anonymous-official"/>
-<br/>
-<table>
-  <tr>
-    <th></th>
-    <th></th>
-  </tr>
-  <tr>
-    <td><img src='https://github-readme-stats.vercel.app/api?username=mr-anonymous-official&show_icons=true&theme=radical'/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-anonymous-official&layout=compact" alt="mr-anonymous-official" /></td>
-  </tr>
-</table
-
-<p></p>  
