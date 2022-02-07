@@ -110,7 +110,7 @@ Hi, I'm Karthik Raja, a passionate self-taught App and Web developer from India.
   <hr/>
 
   <div>
-    <a href="#"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=karthikraja001&custom_title=Karthik Raja's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
+    <a href="#"><img alt="Karthik Raja's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=karthikraja001&custom_title=Karthik Raja's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
   <div> 
 </div>
 
