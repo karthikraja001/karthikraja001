@@ -62,7 +62,6 @@ Hi, I'm Karthik Raja, a passionate self-taught App and Web developer from India.
   <a href="#"><img src="https://img.shields.io/badge/-Google Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Google Analytics-000000?style=for-the-badge&logo=google-analytics&logoColor=E37400"></a>
   <a href="#"><img src="https://img.shields.io/badge/Go Daddy-000000.svg?style=for-the-badge&logo=godaddy&logoColor=#1BDBDB"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Amazon%20AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=1BDBDB"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Heroku-000000?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="#"><img src="https://img.shields.io/badge/Vercel%20-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=ffffff"></a>
   <br/><br/>
