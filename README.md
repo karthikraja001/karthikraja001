@@ -9,11 +9,15 @@
   <a href="https://discord.com/channels/mr_anonymous_2001#4770" target="_blank"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2"></a>
   <a href="https://twitter.com/MrAnonymousOfcl" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2"></a>  
 </p>
+<br/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=karthikraja001&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="karthikraja001" /> </p>
+<br/>
+
 
 <br/>
 
 <p align='center'>
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </p>  
 <br/>
 <br/>
