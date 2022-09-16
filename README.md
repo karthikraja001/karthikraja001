@@ -36,16 +36,19 @@ Hi, I'm Karthik Raja, a passionate self-taught App and Web developer from India.
   <code>Frontend</code>
   <br/><br/>
   <a href="#"><img src="https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter&logoColor=02569B"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
   <a href="#"><img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"></a>
   <a href="#"><img src="https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Java Swing-000000?style=for-the-badge&logo=java&logoColor=007396"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Material UI-000000?style=for-the-badge&logo=material design&logoColor=757575"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=7952B3"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=61DBFB"></a>
   <br/><br/>
   <code>DB and Backend</code>
   <br/><br/>
-  <a href="#"><img src="https://img.shields.io/badge/-Node js-000000?style=for-the-badge&logo=Node.js&logoColor=#339933"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Node js-000000?style=for-the-badge&logo=Node.js&logoColor=339933"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=Django&logoColor=FFFFFF"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=FFFFFF"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1"></a>
   <a href="#"><img src="https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Oracle SQL-000000?style=for-the-badge&logo=oracle&logoColor=F80000"></a>
   <a href="#"><img src="https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4"></a>
@@ -55,11 +58,14 @@ Hi, I'm Karthik Raja, a passionate self-taught App and Web developer from India.
   <a href="#"><img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=3776AB"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=007396"></a>
   <a href="#"><img src="https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=#A8B9CC"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
   <br/><br/>
   <code>Cloud Tools</code>
   <br/><br/>
   <a href="#"><img src="https://img.shields.io/badge/-Google cloud-000000?style=for-the-badge&logo=google-cloud&logoColor=4285F4"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Google Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Microsoft Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=0078D4"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Amazon AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Google Analytics-000000?style=for-the-badge&logo=google-analytics&logoColor=E37400"></a>
   <a href="#"><img src="https://img.shields.io/badge/Go Daddy-000000.svg?style=for-the-badge&logo=godaddy&logoColor=#1BDBDB"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Heroku-000000?style=for-the-badge&logo=heroku&logoColor=430098"></a>
