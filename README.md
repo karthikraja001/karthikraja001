@@ -15,12 +15,12 @@
 <br/>
 
 
-<br/>
 
+<!--
 <p align='center'>
   <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-</p>  
-<br/>
+</p> 
+-->
 <br/>
 
 Hi, I'm Karthik Raja, a passionate self-taught App and Web developer from India. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
@@ -114,7 +114,7 @@ Hi, I'm Karthik Raja, a passionate self-taught App and Web developer from India.
 <diV>
 
   <div align="center">
-    <a href="#"><img alt="Thiago's Github Stats" src="https://github-readme-stats.vercel.app/api?username=karthikraja001&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=blue&icon_color=blue" height="200"/></a>
+    <a href="#"><img alt="Karthik's Leetcode Stats" src="https://leetcode-stats-six.vercel.app/?username=karthikraja_01&theme=dark" height="200"/></a>
     <a href="#"><img alt="Karthik Raja's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikraja001&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
     <br/>
     <a href='#'>
