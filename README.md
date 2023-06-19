@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/karthikraja.01" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"></a>
   <a href="https://discord.com/channels/mr_anonymous_2001#4770" target="_blank"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2"></a>
   <a href="https://twitter.com/MrAnonymousOfcl" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2"></a>  
-  <a href="https://leetcode.com/karthikraja_01/" target="_blank"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFFFFF"></a>  
+  <a href="https://leetcode.com/karthikraja_01/" target="_blank"><img src="https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFFFFF"></a>  
 </p>
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=karthikraja001&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="karthikraja001" /> </p>
