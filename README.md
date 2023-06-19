@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Karthik Raja&nbsp;<img align="center" src="https://img.icons8.com/color/48/000000/instagram-verification-badge.png"/></h1>  
-<h3 align="center">Aspiring Software developer from Coimbatore, India</h3>
+<h3 align="center">Aspiring Software Developer from Coimbatore, India</h3>
 <br/>
 
 <p align="center">   
@@ -8,6 +8,7 @@
   <a href="https://www.instagram.com/karthikraja.01" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"></a>
   <a href="https://discord.com/channels/mr_anonymous_2001#4770" target="_blank"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2"></a>
   <a href="https://twitter.com/MrAnonymousOfcl" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2"></a>  
+  <a href="https://leetcode.com/karthikraja_01/" target="_blank"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFFFFF"></a>  
 </p>
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=karthikraja001&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="karthikraja001" /> </p>
@@ -38,7 +39,7 @@ Hi, I'm Karthik Raja, a passionate self-taught App and Web developer from India.
   <a href="#"><img src="https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter&logoColor=02569B"></a>
   <a href="#"><img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"></a>
   <a href="#"><img src="https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Java Swing-000000?style=for-the-badge&logo=java&logoColor=007396"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Java Swing-000000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Material UI-000000?style=for-the-badge&logo=material design&logoColor=757575"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=7952B3"></a>
   <a href="#"><img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=61DBFB"></a>
@@ -56,9 +57,9 @@ Hi, I'm Karthik Raja, a passionate self-taught App and Web developer from India.
   <code>Basic Programming</code>
   <br/><br/>
   <a href="#"><img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=3776AB"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=007396"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"></a>
   <a href="#"><img src="https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=#A8B9CC"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=openjdkscript&logoColor=F7DF1E"></a>
   <br/><br/>
   <code>Cloud Tools</code>
   <br/><br/>
@@ -126,7 +127,6 @@ Hi, I'm Karthik Raja, a passionate self-taught App and Web developer from India.
   <hr/>
 
   <div>
-    <a href="#"><img alt="Karthik Raja's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=karthikraja001&custom_title=Karthik%20Raja%27s%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
   <div> 
 </div>
 
