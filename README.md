@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Karthik Raja&nbsp;<img align="center" src="https://img.icons8.com/color/48/000000/instagram-verification-badge.png"/></h1>  
-<h3 align="center">A rookie developer from India</h3>
+<h3 align="center">Aspiring Software developer from Coimbatore, India</h3>
 <br/>
 
 <p align="center">   
